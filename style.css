@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+  }
+  header {
+    min-height: 100vh;
+    width: 100%;
+    background-image: url(asset/teambg3.webp);
+    background-position: center;
+    background-size: cover;
+    position: relative;
+  }
+  .links_header ul {
+    display: flex;
+    justify-content: right;
+    padding-right: 6rem;
+    text-decoration: none;
+  }
+  .links_header ul li{
+    padding-left: 36px ;
+    list-style: none;
+    text-decoration: none;
+  }
